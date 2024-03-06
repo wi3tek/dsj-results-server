@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://dsj-results-user:6zTIf5qjUbHMz6Ym@dsj-results-db.y4crvah.mongodb.net/DSJ-RESULTS-DB
+
+service.name: DsjResultsServer
